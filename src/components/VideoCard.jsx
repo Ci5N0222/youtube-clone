@@ -1,6 +1,6 @@
 import React from 'react';
-import { formatAgo } from '../util/date';
 import { useNavigate } from 'react-router-dom';
+import { format } from 'timeago.js';
 
 
 export default function VideoCard({ video, type }) {
@@ -8,7 +8,7 @@ export default function VideoCard({ video, type }) {
     const navigate = useNavigate();
     const isList = type ==='list';
     return (
-        <li 
+        <li
             className={ isList ? 'flex gap-1 m-2' : '' }
             onClick={()=>{ navigate(`/videos/watch/${video.id}`, {state: { video }}) }}
         >
@@ -19,7 +19,7 @@ export default function VideoCard({ video, type }) {
             <div>
                 <p className='font-semibold my-2 line-clamp-2'>{ title }</p>
                 <p className='text-sm opacity-80'>{ channelTitle }</p>
-                <p className='text-sm opacity-80'>{ formatAgo(publishedAt, 'ko') }</p>
+                <p className='text-sm opacity-80'>{ format(publishedAt) }</p>
             </div>
         </li>
     );

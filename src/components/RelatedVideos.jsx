@@ -16,8 +16,8 @@ export default function RelatedVideos({ id, channelId }) {
             {error && <p>Something is wrong</p>}
             {videos && (
                 <ul>
-                    {videos.map((video) => (
-                        <VideoCard key={video.id} video={video} type='list'/>
+                    {videos.map((video, i) => (
+                        <VideoCard key={ i } video={video} type='list'/>
                     ))}
                 </ul>
             )}
