@@ -1,0 +1,862 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "cCy1lbsmgntqgUL52Vy3YPd4sNg",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "KR",
+    "pageInfo": {
+        "totalResults": 361,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-ruA2gIsgjqL8WgSFgdL-c63S1g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AcJuAqRpJZI"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-17T15:15:44Z",
+                "channelId": "UCGisihUQxb3_gE7Qzffyp4g",
+                "title": "Mini German Shepherd abandoned at Home Depot -Watch when she’s told she’s a good girl for first time",
+                "description": "She was found in a Home Depot parking lot and I'm not sure if someone dropped her there and took off or if she's been wondering ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AcJuAqRpJZI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AcJuAqRpJZI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AcJuAqRpJZI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rocky Kanaka",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-17T15:15:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_vF5DyX5rgqPFKz7bZ9NYkOAltU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1OwtZQJq8Eg"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-13T21:17:10Z",
+                "channelId": "UCGisihUQxb3_gE7Qzffyp4g",
+                "title": "Watch this shelter dog melt the first time he&#39;s pet - family dumped him because they were moving 😔",
+                "description": "His family dumped him at the shelter because they were moving. We know Arthur's storybook ending is out there, even if it takes ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1OwtZQJq8Eg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1OwtZQJq8Eg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1OwtZQJq8Eg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rocky Kanaka",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-13T21:17:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DFm5fDm3fX3a9PQLB1hpI23P43Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AjmVV1XG7Cc"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-08T18:05:35Z",
+                "channelId": "UCGisihUQxb3_gE7Qzffyp4g",
+                "title": "The Full Story of What Happens to a Shelter Dog After I sit with Them 🥹",
+                "description": "What happened to Jenny the Chocolate lab puppy?! Did Dawn the senior bull terrier get adopted? And why wasn't Casper ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AjmVV1XG7Cc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AjmVV1XG7Cc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AjmVV1XG7Cc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rocky Kanaka",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-08T18:05:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "CQdlWBWSIcvII6eG70ZbVtpPlxg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "M_Vg_yvlFiI"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-29T17:13:37Z",
+                "channelId": "UCGisihUQxb3_gE7Qzffyp4g",
+                "title": "Watch what happens when I change her name from Venom to Honey",
+                "description": "My treats and Sitting with Dogs shirts here: https://www.shoprockykanaka.com I didn't think I was going to open up to me and was ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M_Vg_yvlFiI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M_Vg_yvlFiI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M_Vg_yvlFiI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rocky Kanaka",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-29T17:13:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "g9ZdEUG6nencBPITVWUgh6fwkoA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KUH_xMUuVcY"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-24T14:38:44Z",
+                "channelId": "UCGisihUQxb3_gE7Qzffyp4g",
+                "title": "Sitting with a Pit Bull Abandoned in Night Drop, and the REAL reason her family put her there 🥺",
+                "description": "Pupdate Here: https://youtu.be/AjmVV1XG7Cc?t=8311 My treats and Sitting with Dogs shirts here: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KUH_xMUuVcY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KUH_xMUuVcY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KUH_xMUuVcY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rocky Kanaka",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-24T14:38:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NBprceS3Vea8Oq9ntbiWScQOBDg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "N_jk-cKT1BM"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-23T19:39:51Z",
+                "channelId": "UCGisihUQxb3_gE7Qzffyp4g",
+                "title": "Jenny the Chocolate Lab gets Adopted! 🎉 And I discovered something I wasn&#39;t expecting 🥺",
+                "description": "Jenny the Chocolate lab get's adopted while I am sitting with her! And And I think I found Jenny's brother?! My treats and Sitting ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N_jk-cKT1BM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N_jk-cKT1BM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N_jk-cKT1BM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rocky Kanaka",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-23T19:39:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "P0N4NscT1-gwJC35RU4G6qOjLp8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9E8gJ8KM3QU"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-15T20:07:40Z",
+                "channelId": "UCGisihUQxb3_gE7Qzffyp4g",
+                "title": "Chocolate Lab Puppy Living in Trash gets Her First Bath 🥹 (needs a home)",
+                "description": "Pupdate Here: https://youtu.be/AjmVV1XG7Cc?t=6040 My treats and Sitting with Dogs shirts here: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9E8gJ8KM3QU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9E8gJ8KM3QU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9E8gJ8KM3QU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rocky Kanaka",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-15T20:07:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Kn5u_x0sDavm4RxkzpflJozEEyE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FpO9UHoAQ70"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-12T21:36:08Z",
+                "channelId": "UCGisihUQxb3_gE7Qzffyp4g",
+                "title": "Surprising thing family did dropping their dog at shelter 😔",
+                "description": "JOIN to support and be a part of what I am doing: https://www.youtube.com/channel/UCGisihUQxb3_gE7Qzffyp4g/join Working on ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FpO9UHoAQ70/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FpO9UHoAQ70/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FpO9UHoAQ70/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rocky Kanaka",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-12T21:36:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PXOiUWboFn0fsnRTwMeKgIWqdkA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "aFqsmdaFhcM"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-08T17:54:52Z",
+                "channelId": "UCGisihUQxb3_gE7Qzffyp4g",
+                "title": "Watch the Moment Malamute is Reunited with Her Brother 🥹",
+                "description": "Misty and Ash are really sweet Alaskan Malamutes. I'll keep everyone updated as we get more info ❤️   Special thanks to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aFqsmdaFhcM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aFqsmdaFhcM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aFqsmdaFhcM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rocky Kanaka",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-08T17:54:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lkoheeo6mslFH-Irfw2sB3ujEGI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jDpNCcclbV8"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-01T22:02:07Z",
+                "channelId": "UCGisihUQxb3_gE7Qzffyp4g",
+                "title": "Tiny dogs lost their mom and need our help 🥺 Help me name them! (LIVE 🔴)",
+                "description": "Learn more about these cuties here: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jDpNCcclbV8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jDpNCcclbV8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jDpNCcclbV8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rocky Kanaka",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-01T22:02:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fB6ZL-WR8b5Arp1ZoPYL2mCXTAQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yGnCqQh3-Xo"
+            },
+            "snippet": {
+                "publishedAt": "2023-12-30T20:12:04Z",
+                "channelId": "UCGisihUQxb3_gE7Qzffyp4g",
+                "title": "Watch dog go from terrified to lapdog in minutes 🥹",
+                "description": "Pupdate here: https://youtu.be/AjmVV1XG7Cc?t=306 JOIN to be a part of this: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yGnCqQh3-Xo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yGnCqQh3-Xo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yGnCqQh3-Xo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rocky Kanaka",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-12-30T20:12:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "y-v0JNp0fKWK_1QqTsXBPv_UM1g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-_rOlSqllsE"
+            },
+            "snippet": {
+                "publishedAt": "2023-12-21T21:47:16Z",
+                "channelId": "UCGisihUQxb3_gE7Qzffyp4g",
+                "title": "Emergency Pupdate on Macy the Skinny German Shepherd",
+                "description": "JOIN to support and be a part of helping dogs with me: https://www.youtube.com/channel/UCGisihUQxb3_gE7Qzffyp4g/join ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-_rOlSqllsE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-_rOlSqllsE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-_rOlSqllsE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rocky Kanaka",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-12-21T21:47:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "k9VYFyK5gZadLdrGBCrpNcuf3Mg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lqOTcUAZV_M"
+            },
+            "snippet": {
+                "publishedAt": "2023-12-19T14:15:02Z",
+                "channelId": "UCGisihUQxb3_gE7Qzffyp4g",
+                "title": "Loyal Dog Waits By Shelter Door for Family to Return, then something Remarkable Happens..",
+                "description": "Pupdate Here: https://youtu.be/AjmVV1XG7Cc?t=2196 Wait until you see what shifted to get him to break through and trust again ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lqOTcUAZV_M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lqOTcUAZV_M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lqOTcUAZV_M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rocky Kanaka",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-12-19T14:15:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "s_aKHFOm-7ybKWH1AUpj3kEuTko",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bfntHVbac-s"
+            },
+            "snippet": {
+                "publishedAt": "2023-12-09T18:18:29Z",
+                "channelId": "UCGisihUQxb3_gE7Qzffyp4g",
+                "title": "Watch her reaction when she’s told she’s a GOOD GIRL for the first time",
+                "description": "Macy Update Video and adoption Link: https://youtu.be/-_rOlSqllsE Be a part of this journey with me by becoming a member ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bfntHVbac-s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bfntHVbac-s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bfntHVbac-s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rocky Kanaka",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-12-09T18:18:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RKHpr0zlhufBTeL0rBBAcf-bkCk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "91F93wdTGMY"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-29T18:17:28Z",
+                "channelId": "UCGisihUQxb3_gE7Qzffyp4g",
+                "title": "Here’s what happened to Bear",
+                "description": "Thank you for being a member and being a part of this mission to highlight these amazing pups and watching the Pupdates.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/91F93wdTGMY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/91F93wdTGMY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/91F93wdTGMY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rocky Kanaka",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-29T18:17:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DTpRNs4Uel4Km9YZjHJxgcoV3XI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "G3NSzRGDQxY"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-23T14:02:19Z",
+                "channelId": "UCGisihUQxb3_gE7Qzffyp4g",
+                "title": "Watch the moment he realizes this THANKSGIVING meal&#39;s for him",
+                "description": "Get my treats for your dog here: https://www.rockykanaka.com/jerky and happy Barksgiving to your family For more information ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G3NSzRGDQxY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G3NSzRGDQxY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G3NSzRGDQxY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rocky Kanaka",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-23T14:02:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SQNgQNt9EE3aWcvwCpo_w1IoYdA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5hsiOzwspio"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-18T20:36:18Z",
+                "channelId": "UCGisihUQxb3_gE7Qzffyp4g",
+                "title": "Here’s what happened to Princess",
+                "description": "Furbo for Good helps dogs like Princess, Marty and Carly to bring happiness to animals by providing meals, shelter, training, and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5hsiOzwspio/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5hsiOzwspio/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5hsiOzwspio/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rocky Kanaka",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-18T20:36:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_Y6vy0ks-BVYSa5kHEVDHss_VWM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_qtSGh9yjs4"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-13T19:01:18Z",
+                "channelId": "UCGisihUQxb3_gE7Qzffyp4g",
+                "title": "Watch his reaction when he’s told he’s a GOOD BOY for the first time",
+                "description": "PUPDATE on BEAR here: https://youtu.be/91F93wdTGMY Special thanks to all of you for the support so we can help him and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_qtSGh9yjs4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_qtSGh9yjs4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_qtSGh9yjs4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rocky Kanaka",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-13T19:01:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vnn3Zp4LXA9QYEAilrhJ5Ujzkeo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "s6xuL9y2zes"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-05T21:24:28Z",
+                "channelId": "UCGisihUQxb3_gE7Qzffyp4g",
+                "title": "Watch the moment I figure out this German Shepherds name at the shelter 😳",
+                "description": "Get my hand made baked jerky treats for your dog here: https://www.RockyKanaka.com/jerky Princess is going to need a little time ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s6xuL9y2zes/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s6xuL9y2zes/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s6xuL9y2zes/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rocky Kanaka",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-05T21:24:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jf3rxc2gpzdMt5ei7-PEnoL4V4M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ebEZ2mcFB6A"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-29T13:51:38Z",
+                "channelId": "UCGisihUQxb3_gE7Qzffyp4g",
+                "title": "New shelter intake frozen from fear until this happens..",
+                "description": "Surprise your dog with my treats! https://www.rockykanaka.com/jerky Marty the Mastiff mix dog entered the shelter and was frozen ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ebEZ2mcFB6A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ebEZ2mcFB6A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ebEZ2mcFB6A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rocky Kanaka",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-29T13:51:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "h9xx8g0t7HK7ddazdwhqSfteFq4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cHRcE9IHHkk"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-18T20:49:09Z",
+                "channelId": "UCGisihUQxb3_gE7Qzffyp4g",
+                "title": "Dalmatian abandoned at the shelter with so many 🪳🦟🐜",
+                "description": "Thank you Sundays for Dogs for sponsoring this video. My dogs are LOVING this dog food Get 40% off: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cHRcE9IHHkk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cHRcE9IHHkk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cHRcE9IHHkk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rocky Kanaka",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-18T20:49:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZuxaftQNXRXtFNnlZm7oL_N1OdI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LTpqTo9fVNc"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-12T21:14:08Z",
+                "channelId": "UCGisihUQxb3_gE7Qzffyp4g",
+                "title": "It wasn’t her fault 😳",
+                "description": "This husky was returned for eating chickens #husky #animals.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LTpqTo9fVNc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LTpqTo9fVNc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LTpqTo9fVNc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rocky Kanaka",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-12T21:14:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ikOC7xr9_hjTc6hIEPcU4cv9nfA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "meCQTzjwmPk"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-05T16:54:27Z",
+                "channelId": "UCGisihUQxb3_gE7Qzffyp4g",
+                "title": "Cute pittie learning to trust again 🥹",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/meCQTzjwmPk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/meCQTzjwmPk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/meCQTzjwmPk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rocky Kanaka",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-05T16:54:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "w8ZA77OqiIWyzcwH_yj3XSBnJpQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "03S2--cja00"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-21T23:21:26Z",
+                "channelId": "UCGisihUQxb3_gE7Qzffyp4g",
+                "title": "Betty is going home 😍 her full vid link above!",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/03S2--cja00/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/03S2--cja00/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/03S2--cja00/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rocky Kanaka",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-21T23:21:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Hj9WkfhB-5UBwxJ_27D50_xwlLI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "foxK4SxGsSw"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-16T23:51:33Z",
+                "channelId": "UCGisihUQxb3_gE7Qzffyp4g",
+                "title": "He doesn’t know why you’re looking at him funny 🥺",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/foxK4SxGsSw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/foxK4SxGsSw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/foxK4SxGsSw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rocky Kanaka",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-16T23:51:33Z"
+            }
+        }
+    ]
+}
